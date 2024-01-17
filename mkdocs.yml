@@ -72,5 +72,5 @@ plugins:
     - search
     # Using jupyter notebook  
     - mkdocs-jupyter:
-          theme: dark
+          theme: default
 
