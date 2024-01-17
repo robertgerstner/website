@@ -17,9 +17,9 @@ theme:
       # Palette toggle for light mode
       - scheme: default
         # Color of the top bar
-        primary: deep orange
+        # primary: deep purple
         # Link highlight color
-        accent : orange
+        # accent : orange
         
         toggle:
           icon: material/brightness-7 
