@@ -1,0 +1,34 @@
+site_name: A Most Wonderful Page
+site_url: https://steob92.github.io/mcgill-tutorial/ # must have the trailing slash
+site_author: Stephan O'Brien (stephan.obrien@mcgill.ca)
+site_description: Research site for Stephan O'Brien
+copyright: > # should remain a link to the original theme
+  &copy; 2023 Stephan O'Brien<br>
+  <a href="https://github.com/vuquangtrong/mkdocs-material-blog">Blog Theme</a> /
+  <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
+
+
+
+theme:
+    # name: material
+    name: readthedocs
+    palette:
+        scheme: slate
+    features:
+    - navigation.instant # some features may not work properly with XHR
+    - navigation.tracking # the URL changes with the active anchor
+    - navigation.tabs # first top-level sections are shown as tabs
+    - navigation.tabs.sticky # tabs always show
+    - navigation.sections # sections are rendered as groups in the sidebar
+    - navigation.expand # all sections are expanded
+    - navigation.indexes # link an index.md page to a section
+    - navigation.top # show back-to-top button
+    - toc.integrate # show table of contents to navigation panel
+    - header.autohide
+    - content.code.annotate 
+    - content.code.copy
+
+extra_javascript:
+  - javascripts/mathjax.js
+  # - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
