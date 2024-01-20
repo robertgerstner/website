@@ -4,7 +4,7 @@ Here is a paragraph explaining my research interests, the telescopes that I'm in
 
 
 ## Recent Highlights
- - [Awesome Paper](./highlights/awesome_paper/awesome_paper.md)
- - [Multiwavelength Paper](./highlights/large_mwl_paper/large_mwl_paper.md)
+ - [Awesome Paper](./highlights/awesome_paper/index.md)
+ - [Multiwavelength Paper](./highlights/large_mwl_paper/index.md)
 
 A full list of publications can be found [here](./all_publications.md).
