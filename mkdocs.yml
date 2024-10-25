@@ -58,7 +58,7 @@ extra_javascript:
 nav:
   - Home: index.md
   - About Me: about/index.md
-  - Research: reasearch/index.md
+  - Research: research/index.md
   - Projects: projects/index.md
   - Links: links.md
 
