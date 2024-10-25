@@ -1,6 +1,8 @@
 # Projects
 
-Here are some projects that I am working on. 
+Here are some additional projects I have been involved with.
 
-- [Python Project](./python_project/python_project.ipynb) is an amazing python project that will allow you to see my coding skills.
-- [Data Project](./data_project/index.md) is an even more amazing project where I share data that I've used.
+## Spectral Graph Theory and One-Dimensional Crystal Band Structure
+
+A project I am working on for Phys 558 at McGill. Read more [here].
+
