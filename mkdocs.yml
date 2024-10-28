@@ -60,7 +60,7 @@ nav:
   - About Me: about/index.md
   - Research: research/index.md
   - Projects: projects/index.md
-  - Links: links.md
+  - Outreach: outreach.md
 
 # Extensions that we want to use
 markdown_extensions:
