@@ -17,7 +17,7 @@ In particular, we attacked the problem from a new angle by studying the growth a
 
 <figure style="float:right; margin-right:10px; width:444px; text-align:center;">
     <img src="./media/usra.jpg" alt="usra" style="height:300px; width:444px;">
-    <figcaption style="font-size:small;">University of Manitoba, Aug. 17 2023</figcaption>
+    <figcaption style="font-size:small;">University of Manitoba, Aug. 17 2023.</figcaption>
 </figure>
 
 I was involved in this project as a summer student with Prof. [Jesko Sirker](http://drop.physics.umanitoba.ca/~jsirker/Dokuwiki/doku.php?id=home) at the University of Manitoba in 2023, continuing part-time until Jan. 2024. I then joined him again in the summer of 2024 to help revise our paper and study the mixed-field Ising model. Our project was in collaboration with Dr. [Alexander Weiße](https://people.mpim-bonn.mpg.de/weisse/) at the Max Planck Institute for Mathematics in Bonn, Germany. Dr. Weiße was most responsible for the associated numerical work, while Dr. Sirker and I were most responsible for the analytical work. One of my more interesting developments was a way to model operator growth using graph theory.
