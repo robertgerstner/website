@@ -10,7 +10,7 @@
     </figcaption>
 </figure>
 
-<figure style="margin-right:10px; width:450px; text-align:center; clear:both;">
+<figure style="float:right; margin-right:10px; width:450px; text-align:center; clear:both;">
     <img src="./media/harmgen.png" alt="phase" style="height:149px; width:450px;">
     <figcaption style="font-size:small;">An illustration of phase matching, a requirement for efficient SHG, from my simulations.</figcaption>
 </figure>
