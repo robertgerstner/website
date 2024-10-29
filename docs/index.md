@@ -3,6 +3,7 @@
 
 <img src="./home_media/headshot1.jpg" alt="Headshot1" style="height:420px; width:300px; float:left;"> 
 
+- **Welcome!**
 - **MSc Student**
 - **Department of Physics**
 - **McGill University**
