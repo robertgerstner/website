@@ -57,8 +57,14 @@ extra_javascript:
 # For describing the navigation panel
 nav:
   - Home: index.md
-  - About Me: about/index.md
-  - Research: research/index.md
+  - About Me: 
+      - Overview: about/index.md
+      - Track and Field: about/track.md
+      - CV: about/cv.md
+  - Research:
+      - Overview: research/index.md
+      - Many-Body Localization: research/highlights/MBL/index.md
+      - Harmonic Generation in Metallic Nanohybrids: research/highlights/Harm_Gen/index.md
   - Projects: projects/index.md
   - Outreach: outreach.md
 
