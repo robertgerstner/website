@@ -57,7 +57,7 @@ extra_javascript:
 # For describing the navigation panel
 nav:
   - Home: index.md
-  - About Me: 
+  - About Me:
       - Overview: about/index.md
       - Track and Field: about/track.md
       - CV: about/cv.md
