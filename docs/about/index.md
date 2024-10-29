@@ -13,6 +13,13 @@ I later became fascinated by quantum mechanics, and in particular, quantum compu
 
 2020-2024: BSc, Western University
 
+# Skills
+
+- Python, Julia, Mathematica, Maple, C++, LaTex, Git/GitHub
+- Deep learning (basics)
+- Quantum mechanics (advanced)
+- Computational techniques (learning): Neural Quantum States, Tensor Networks, Density Matrix Renormalization Group, Quantum Simulation
+
 # Other Interests
 
 <figure style="float:left; margin-right:10px; width:300px; text-align:center;">
