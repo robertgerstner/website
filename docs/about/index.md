@@ -33,9 +33,7 @@ As an active music nerd, I enjoy playing all kinds of music on the piano and I a
 
 I am also a big NBA fan. As a Canadian, the Toronto Raptors have always been my number one, but the Oklahoma City Thunder have also become a recent favourite.
 
-
-
-
+<div style="clear: both;"></div>
 
 # CV
 
