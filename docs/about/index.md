@@ -15,8 +15,10 @@ I later became fascinated by quantum mechanics, and in particular, quantum compu
 
 # Other Interests
 
-<img src="./media/gracie.jpg" alt="Gracie" style="height:314px; width:300px; float:left; margin-right:10px;">
-*My beautiful dog, Gracie*
+<figure style="float:left; margin-right:10px; width:300px; text-align:center;">
+    <img src="./media/gracie.jpg" alt="Gracie" style="height:314px; width:300px;">
+    <figcaption style="font-size:small;">My beautiful dog, Gracie</figcaption>
+</figure>
 
 When not at the office, there's a good chance you'll find me at the track. I am a competitive track and field athlete in the long and triple jump and you can learn more about this [here](./track.md).
 
