@@ -13,7 +13,7 @@ I later became fascinated by quantum mechanics, and in particular, quantum compu
 
 2020-2024: BSc, Western University
 
-# Skills
+# Relevant Research Skills
 
 - Python, Julia, Mathematica, Maple, C++, LaTex, Git/GitHub
 - Deep learning (basics)
@@ -37,4 +37,6 @@ I am also a big NBA fan. As a Canadian, the Toronto Raptors have always been my 
 # CV
 
 <!-- How to embed a PDF -->
-<iframe width="100%" height="600" src="./media/CV_Nov_2024.pdf">
+<div style="margin-top: 30px;">
+    <iframe width="100%" height="600" src="./media/CV_Nov_2024.pdf"></iframe>
+</div>
