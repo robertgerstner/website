@@ -37,7 +37,7 @@ theme:
     - navigation.tracking # the URL changes with the active anchor
     - navigation.tabs # first top-level sections are shown as tabs
     - navigation.tabs.sticky # tabs always show
-    - navigation.sections # sections are rendered as groups in the sidebar
+    # - navigation.sections # sections are rendered as groups in the sidebar
     - navigation.expand # all sections are expanded
     - navigation.indexes # link an index.md page to a section
     - navigation.top # show back-to-top button
