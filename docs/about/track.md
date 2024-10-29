@@ -7,5 +7,5 @@ Unfortunately, each of my competition seasons have been plagued with injury sinc
 <div style="text-align: center;">
     <img src="./media/track1.JPG" alt="Track 1" style="width:30%; margin: 10px;">
     <img src="./media/track2.JPG" alt="Track 2" style="width:30%; margin: 10px;">
-    <img src="./media/track3.JPG" alt="Track 3" style="width:30%; margin: 10px;">
+    <img src="./media/track3.PNG" alt="Track 3" style="width:30%; margin: 10px;">
 </div>
