@@ -26,7 +26,7 @@ I later became fascinated by quantum mechanics, and in particular, quantum compu
 
 # Other Interests
 
-<figure style="float:left; margin-right:10px; width:300px; text-align:center;">
+<figure style="float:right; margin-right:10px; width:300px; text-align:center;">
     <img src="./media/gracie.jpg" alt="Gracie" style="height:314px; width:300px;">
     <figcaption style="font-size:small;">My beautiful dog, Gracie</figcaption>
 </figure>

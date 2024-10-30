@@ -64,7 +64,6 @@ nav:
   - About Me:
     - Overview: about/index.md
     - Track and Field: about/track.md
-    - CV: about/cv.md
   - Research:
     - Overview: research/index.md
     - Many-Body Localization: research/highlights/MBL/index.md
