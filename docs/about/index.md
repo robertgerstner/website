@@ -28,7 +28,7 @@ I later became fascinated by quantum mechanics, and in particular, quantum compu
 
 <figure style="float:right; margin-right:10px; width:300px; text-align:center;">
     <img src="./media/gracie.jpg" alt="Gracie" style="height:314px; width:300px;">
-    <figcaption style="font-size:small;">My beautiful dog, Gracie</figcaption>
+    <figcaption style="font-size:small;">My beautiful dog, Gracie.</figcaption>
 </figure>
 
 When not at the office, there's a good chance you'll find me at the track. I am a competitive track and field athlete in the long and triple jump and you can learn more about this [here](./track.md).
@@ -39,7 +39,7 @@ I am also a big NBA fan. As a Canadian, the Toronto Raptors have always been my 
 
 <div style="clear: both;"></div>
 
-# CV
+# Curriculum Vitae
 
 <!-- How to embed a PDF -->
 <iframe width="100%" height="600" src="./media/CV_Nov_2024.pdf">

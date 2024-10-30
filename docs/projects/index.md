@@ -1,6 +1,6 @@
 # Projects
 
-In addition to my primary research, I hope to further develop to further develop my skills in computational science with projects. Below are some highlighted examples.
+In addition to my primary research, I hope to further develop my skills in computational science with projects. Below are some highlighted examples.
 
 ## Crystal Band Structure and Graph Theory
 
