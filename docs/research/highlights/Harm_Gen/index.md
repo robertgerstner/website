@@ -2,7 +2,7 @@
 
 ## Brief Description
 
-<figure style="float:right; margin-right:10px; width:400px; text-align:center;">
+<figure style="float:right; margin-right:10px; width:400px; text-align:center; margin-left:15px;">
     <img src="./media/shg.png" alt="shg" style="height:228px; width:400px;">
     <figcaption style="font-size:small;">
         The basic process of second harmonic generation. 
@@ -10,7 +10,7 @@
     </figcaption>
 </figure>
 
-<figure style="float:right; margin-right:10px; width:450px; text-align:center; clear:both;">
+<figure style="float:right; margin-right:10px; width:450px; text-align:center; margin-left:15px; clear:both;">
     <img src="./media/harmgen.png" alt="phase" style="height:149px; width:450px;">
     <figcaption style="font-size:small;">An illustration of phase matching, a requirement for efficient SHG, from my simulations.</figcaption>
 </figure>
@@ -22,11 +22,11 @@ This project aimed to develop a theory for **second and third harmonic generatio
 
 ## More Information
 
-<figure style="float:right; margin-right:10px; width:400px; text-align:center;">
+<figure style="float:right; margin-right:10px; width:400px; text-align:center; margin-left:15px;">
     <img src="./media/cap.JPG" alt="graph" style="height:711px; width:400px;">
     <figcaption style="font-size:small;">CAP Congress, May 27/30 2024.</figcaption>
 </figure>
 
 I was involved with this project as an undergraduate honours thesis student with Prof. [Mahi Singh](https://physics.uwo.ca/~msingh/) at Western University. As part of the thesis program, I completed a final written thesis as well as a midterm and final presentation. I also presented numerous times to Dr. Singh's group seminars, and gave a [poster presentation](./media/thgposter.pdf). I gave an oral presentation at the Canadian Association of Physicists (CAP) Congress at Western University in 2024, winning [third prize](./media/capcert.pdf) in the atomic, molecular, and optical (AMO) physics division as an undergraduate competing nationally against graduate students. The slides for that presentation can be found [here](./media/capslides.pdf).
 
-We collaborated with an experimental group at Vanderbilt University for this project. Additionally, a graduate student in Dr. Singh's group joined the project after I finished my thesis to assist in the theory's addition of *sum frequency generation* to explain the results. We have submitted a paper on the project for peer revision; I will link it here when it is published. Myself and Dr. Singh's graduate student were responsible for the numerical simulations and experimental fitting, while Dr. Singh was most responsible for the analytical work.  
+We collaborated with an experimental group at Vanderbilt University for this project. Additionally, a graduate student in Dr. Singh's group joined the project after I finished my thesis to assist in the theory's addition of *sum frequency generation* to explain the results. We have submitted a paper on the project for peer revision; I will link it here when it is published. Dr. Singh's graduate student and I were responsible for the numerical simulations and experimental fitting, while Dr. Singh was most responsible for the analytical work.  

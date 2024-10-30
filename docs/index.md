@@ -2,7 +2,7 @@
 
 Welcome!
 
-<img src="./home_media/headshot1.jpg" alt="Headshot1" style="height:420px; width:300px; float:left;"> 
+<img src="./home_media/headshot1.jpg" alt="Headshot1" style="height:420px; width:300px; float:left; margin-right:15px;margin-bottom:15px;"> 
 
 I am...
 
