@@ -2,7 +2,7 @@
 
 My primary area of interest can be broadly classified as **theoretical and computational quantum many-body physics**. I am interested in applying known theoretical/mathematical tools as well as computational tools (including neural networks and quantum computation) for studying quantum systems with potential applications. 
 
-Click [here](./pubs.md) for a list of my publications, or check out my [Google Scholar](https://scholar.google.ca/citations?user=TYEYABoAAAAJ&hl=en).
+Click [here](./pubs.md) for a list of my publications, or check out my [Google Scholar](https://scholar.google.ca/citations?user=TYEYABoAAAAJ&hl=en) and [arXiv](https://arxiv.org/search/cond-mat?searchtype=author&query=Gerstner,+R) page.
 
 Below are some highlighted research projects I have been involved with.
 

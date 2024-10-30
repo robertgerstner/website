@@ -10,7 +10,18 @@ copyright: > # should remain a link to the original theme
   <a href="https://github.com/vuquangtrong/mkdocs-material-blog">Blog Theme</a> /
   <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
 
-
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/robert-gerstner-697018173/
+    - icon: fontawesome/brands/google-scholar
+      link: https://scholar.google.com/citations?user=TYEYABoAAAAJ&hl=en
+    - icon: fontawesome/brands/id-badge
+      link: https://orcid.org/0009-0000-0602-0131
+    - icon: fontawesome/brands/github
+      link: https://github.com/robertgerstner
+    - icon: fontawesome/solid/envelope
+      link: mailto:robert.gerstner@mail.mcgill.ca
 
 theme:
     name: material
