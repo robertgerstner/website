@@ -5,6 +5,7 @@ Welcome!
 <img src="./home_media/headshot1.jpg" alt="Headshot1" style="height:420px; width:300px; float:left;"> 
 
 I am...
+
 - An **MSc Student** (Year 1) in the **Department of Physics** at **McGill University**
 - Based in **Montréal, QC, Canada**
 - Interested in **theoretical and computational quantum many-body physics**
