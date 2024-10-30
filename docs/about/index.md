@@ -20,6 +20,8 @@ I later became fascinated by quantum mechanics, and in particular, quantum compu
 - Quantum mechanics (advanced)
 - Computational physics techniques (learning): Neural Quantum States, Tensor Networks, Density Matrix Renormalization Group, Quantum Simulation
 
+<div style="clear: both;"></div>
+
 # Other Interests
 
 <figure style="float:left; margin-right:10px; width:300px; text-align:center;">
@@ -29,7 +31,7 @@ I later became fascinated by quantum mechanics, and in particular, quantum compu
 
 When not at the office, there's a good chance you'll find me at the track. I am a competitive track and field athlete in the long and triple jump and you can learn more about this [here](./track.md).
 
-As an active music nerd, I enjoy playing all kinds of music on the piano and I am obsessed with keeping up with new album releases and typically making an album of the year ranking at the end of each year.
+As an active music nerd, I enjoy playing the piano and I am obsessed with keeping up with new album releases. I typically make an album of the year ranking at the end of each year. Stay tuned for 2024...
 
 I am also a big NBA fan. As a Canadian, the Toronto Raptors have always been my number one, but the Oklahoma City Thunder have also become a recent favourite.
 
@@ -38,4 +40,4 @@ I am also a big NBA fan. As a Canadian, the Toronto Raptors have always been my 
 # CV
 
 <!-- How to embed a PDF -->
-<iframe width="100%" height="600" src="./media/CV_Nov_2024.pdf"> -->
+<!-- <iframe width="100%" height="600" src="./media/CV_Nov_2024.pdf"> --> -->

@@ -18,9 +18,9 @@ theme:
       # Palette toggle for light mode
       - scheme: default
         # Color of the top bar
-        primary: deep purple
+        primary: red
         # Link highlight color
-        accent : orange
+        accent : red
         
         toggle:
           icon: material/brightness-7 
@@ -31,14 +31,16 @@ theme:
         toggle:
           icon: material/brightness-4
           name: Switch to light mode
-
+    logo: home_media/mcgill_logo.jpg
     features:
     - navigation.instant # some features may not work properly with XHR
+    - navigation.instant.progress
     - navigation.tracking # the URL changes with the active anchor
     - navigation.tabs # first top-level sections are shown as tabs
     - navigation.tabs.sticky # tabs always show
     # - navigation.sections # sections are rendered as groups in the sidebar
     - navigation.expand # all sections are expanded
+    - navigation.path
     - navigation.indexes # link an index.md page to a section
     - navigation.top # show back-to-top button
     - toc.integrate # show table of contents to navigation panel
