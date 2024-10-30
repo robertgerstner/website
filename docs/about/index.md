@@ -5,13 +5,15 @@ I grew up in Winnipeg, MB, Canada (born 3 September 2002) and attended St. Paul'
 
 I later became fascinated by quantum mechanics, and in particular, quantum computing. The way that counterintuitive quantum phenomena such as superposition and entanglement could be harnessed for a potentially revolutionary technology was incredibly intriguing to me. I began to immerse myself in the field. Later, I was introduced condensed matter physics in which quantum mechanics is applied to study materials and their properties. One thing I love about condensed matter is its versatility; it blurs the lines from abstract mathematical theory all the way to practical real-world applications. I spent two summers with Prof. [Jesko Sirker](http://drop.physics.umanitoba.ca/~jsirker/Dokuwiki/doku.php?id=home) at the [University of Manitoba](https://umanitoba.ca/) where we studied the phenomenon of many-body localization (or the lack thereof... see [here](/docs/research/highlights/MBL/index.md) for more information). In addition, I spent a year with Prof. [Mahi Singh](https://physics.uwo.ca/~msingh/) at Western where I was introduced to the field of plasmonics. This all led me to pursue a Master of Science degree at [McGill University](https://www.mcgill.ca/) in theoretical condensed matter physics with Prof. [Bill Coish](https://www.physics.mcgill.ca/~coish/), where I currently reside. I plan to pursue a PhD after the completion of my Master's, and hopefully become a research scientist in computational and theoretical quantum physics.
 
-# Vita
+# Education
 
 <img src="./media/gradsuit.jpg" alt="Grad" style="height:413px; width:300px; float:right; margin-left:10px;">
 
-2024-Present: MSc, McGill University
 
-2020-2024: BSc, Western University
+| Year           | Degree               | Institution         | Location              |
+|----------------|----------------------|---------------------|-----------------------|
+| 2024-Present   | Master of Science    | McGill University   | Montréal, QC, Canada  |
+| 2020-2024      | Bachelor of Science  | Western University  | London, ON, Canada    |
 
 # Relevant Research Skills
 
@@ -35,9 +37,9 @@ As an active music nerd, I enjoy playing the piano and I am obsessed with keepin
 
 I am also a big NBA fan. As a Canadian, the Toronto Raptors have always been my number one, but the Oklahoma City Thunder have also become a recent favourite.
 
-<!-- <div style="clear: both;"></div>
+<div style="clear: both;"></div>
 
 # CV
 
 <!-- How to embed a PDF -->
-<!-- <iframe width="100%" height="600" src="./media/CV_Nov_2024.pdf"> -->
+<iframe width="100%" height="600" src="./media/CV_Nov_2024.pdf">
