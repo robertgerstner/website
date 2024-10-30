@@ -2,7 +2,7 @@
 
 ## Brief Description
 
-<figure style="float:right; margin-right:10px; width:400px; text-align:center;">
+<figure style="float:right; margin-left:10px; width:400px; text-align:center;">
     <img src="./media/mblgraph.png" alt="graph" style="height:452px; width:400px;">
     <figcaption style="font-size:small;">A graph representing operator growth in the disordered XX model.</figcaption>
 </figure>
@@ -15,7 +15,7 @@ In particular, we attacked the problem from a new angle by studying the *growth 
 
 ## More Information
 
-<figure style="float:right; margin-right:10px; width:444px; text-align:center;">
+<figure style="float:right; margin-left:10px; width:444px; text-align:center;">
     <img src="./media/usra.jpg" alt="usra" style="height:300px; width:444px;">
     <figcaption style="font-size:small;">University of Manitoba, Aug. 17 2023.</figcaption>
 </figure>
