@@ -21,7 +21,7 @@ I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.ger
 
 ## Publications
 
-- [February 10, 2025] A significantly updated version of our MBL manuscript is now on the [arXiv](https://arxiv.org/abs/2401.08031). We now believe we have strong analytical evidence for a lack of many-body localization in the disordered Heisenberg and mixed-field Ising models, and open a new avenue towards further studies of MBL via operator growth.
+- **[February 10, 2025]** A significantly updated version of our MBL manuscript is now on the [arXiv](https://arxiv.org/abs/2401.08031). We now believe we have strong analytical evidence for a lack of many-body localization in the disordered Heisenberg and mixed-field Ising models, and open a new avenue towards further studies of MBL via operator growth.
 
 - [December 19, 2024] My mini research project studying arbitrary one-dimensional periodic materials with graph theory is available on the [arXiv](https://arxiv.org/abs/2412.15107).
 
@@ -35,7 +35,7 @@ I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.ger
 
 - [October 15-16, 2024] I attended the [Fall INTRIQ Meeting](https://www.intriq.org/events/rencontre-automnale-2024-de-lintriq) in Bromont, Quebec to discuss progress in quantum research in Quebec.
 
-- [September 15-20, 2024] I attended the [IEEE Quantum Week](https://qce.quantum.ieee.org/2024/) in Montreal, Quebec.
+- [September 15-20, 2024] I attended the [IEEE Quantum Week](https://qce.quantum.ieee.org/2024/) in Montréal, Quebec.
 
 - [May 27, 2024] I gave a talk at the CAP Congress in London, Ontario on my work on harmonic generation in metallic nanohybrids (slides can be found [here]). My talk won [third prize](./home_media/CAP_certificate_2024.pdf) in the AMO division.
 
