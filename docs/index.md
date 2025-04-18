@@ -21,15 +21,15 @@ I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.ger
 
 ## Publications
 
-- **[February 10, 2025]** A significantly updated version of our MBL manuscript is now on the [arXiv](https://arxiv.org/abs/2401.08031). We now believe we have strong analytical evidence for a lack of many-body localization in the disordered Heisenberg and mixed-field Ising models, and open a new avenue towards further studies of MBL via operator growth.
+- **[February 10, 2025]** A significantly updated version of our many-body localization (MBL) manuscript is now on the [arXiv](https://arxiv.org/abs/2401.08031). We now believe we have strong analytical evidence for a lack of MBL in the disordered Heisenberg and mixed-field Ising models, and open a new avenue towards further studies of MBL via operator growth.
 
 - **[December 19, 2024]** My mini research project studying arbitrary one-dimensional periodic materials with graph theory is available on the [arXiv](https://arxiv.org/abs/2412.15107).
 
-- **[January 16, 2024]** My first paper, coming out of my work with Prof. [Jesko Sirker](http://drop.physics.umanitoba.ca/~jsirker/Dokuwiki/doku.php?id=home) in collaboration with Dr. [Alexander Weisse](https://people.mpim-bonn.mpg.de/weisse/) is now on the [arXiv](https://arxiv.org/abs/2401.08031)! We study localization in the Heisenberg model through the novel lens of operator growth, finding strong evidence for a lack of many-body localization.
+- **[January 16, 2024]** My first paper, coming out of my work with Prof. [Jesko Sirker](http://drop.physics.umanitoba.ca/~jsirker/Dokuwiki/doku.php?id=home) in collaboration with Dr. [Alexander Weisse](https://people.mpim-bonn.mpg.de/weisse/), is now on the [arXiv](https://arxiv.org/abs/2401.08031)! We study localization in the Heisenberg model through the novel lens of operator growth, finding strong evidence for a lack of many-body localization.
 
 ## Conferences, Workshops, Talks, and Posters
 
-- **[March 17, 2025]** I gave a talk at the [APS Global Physics Summit](https://summit.aps.org/) in Anaheim, CA on my work in many-body localization (slides can be found [here](./home_media/APS_slides_2025.pdf)). I also attended the conference throughout the rest of the week, with a focus on talks on the intersection of artificial intelligence, quantum physics, and material science. Lots of interesting work being done!
+- **[March 17, 2025]** I gave a talk at the [APS Global Physics Summit](https://summit.aps.org/) in Anaheim, CA on my work in many-body localization (slides can be found [here](./home_media/APS_slides_2025.pdf)). I also attended the conference throughout the rest of the week, focusing on talks at the intersection of artificial intelligence, quantum physics, and material science. Lots of interesting work being done!
 
 - **[November 12-14, 2024]** I attended the Workshop on Quantum Simulation with Spin Qubits in Vancouver, BC (at UBC) as a member of the theory pillar for the [Consortium on Quantum Simulation with Spin Qubits (CQS2Q)](https://www.nserc-crsng.gc.ca/ase-oro/Details-Detailles_eng.asp?id=751954).
 
