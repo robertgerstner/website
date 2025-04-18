@@ -21,33 +21,33 @@ I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.ger
 
 ## Publications
 
-- [February 10, 2025] A significantly updated version of our MBL manuscript is now on the arXiv. We now believe we have strong analytical evidence for a lack of many-body localization in the disordered Heisenberg and mixed-field Ising models, and open a new avenue towards further studies of MBL via operator growth (give link to arXiv).
+- [February 10, 2025] A significantly updated version of our MBL manuscript is now on the [arXiv](https://arxiv.org/abs/2401.08031). We now believe we have strong analytical evidence for a lack of many-body localization in the disordered Heisenberg and mixed-field Ising models, and open a new avenue towards further studies of MBL via operator growth.
 
-- [December 19, 2024] My mini research project studying arbitrary one-dimensional periodic materials with graph theory is available on the arXiv (give link to arXiv).
+- [December 19, 2024] My mini research project studying arbitrary one-dimensional periodic materials with graph theory is available on the [arXiv](https://arxiv.org/abs/2412.15107).
 
-- [January 16, 2024] My first paper, coming out of my work with Prof. Jesko Sirker in collaboration with Dr. Alex Weisse is now on the arXiv! (give link to arXiv) We study localization in the Heisenberg model through the novel lens of operator growth, finding strong evidence for a lack of many-body localization.
+- [January 16, 2024] My first paper, coming out of my work with Prof. Jesko Sirker in collaboration with Dr. Alex Weisse is now on the [arXiv](https://arxiv.org/abs/2401.08031)! We study localization in the Heisenberg model through the novel lens of operator growth, finding strong evidence for a lack of many-body localization.
 
 ## Conferences, Workshops, Talks, Posters
 
-- [March 17, 2025] I gave a talk at the APS Global Physics Summit in Anaheim, California on my work in many-body localization (give link to talk or slides). I also attended the conference throughout the rest of the week, with a focus on talks on the intersection of artificial intelligence, quantum physics, and material science.
+- [March 17, 2025] I gave a talk at the APS Global Physics Summit in Anaheim, California on my work in many-body localization (slides can be found [here](./home_media/APS_slides_2025.pdf)). I also attended the conference throughout the rest of the week, with a focus on talks on the intersection of artificial intelligence, quantum physics, and material science. Lots of interesting work being done!
 
-- [November 12-14, 2024] I attended the Workshop on Quantum Simulation with Spin Qubits in Vancouver, British Columbia as a member of the theory pillar for the Consortium on Quantum Simulation with Spin Qubits (CQS2Q) (give link to consortium).
+- [November 12-14, 2024] I attended the Workshop on Quantum Simulation with Spin Qubits in Vancouver, British Columbia (at UBC) as a member of the theory pillar for the [Consortium on Quantum Simulation with Spin Qubits (CQS2Q)](https://www.nserc-crsng.gc.ca/ase-oro/Details-Detailles_eng.asp?id=751954).
 
-- [October 15-16, 2024] I attended the Fall INTRIQ Meeting in Bromont, Quebec to discuss progress in quantum research in Quebec (give link to INTRIQ website).
+- [October 15-16, 2024] I attended the [Fall INTRIQ Meeting](https://www.intriq.org/events/rencontre-automnale-2024-de-lintriq) in Bromont, Quebec to discuss progress in quantum research in Quebec.
 
-- [September 15-20, 2024] I attended the IEEE Quantum Week in Montreal, Quebec.
+- [September 15-20, 2024] I attended the [IEEE Quantum Week](https://qce.quantum.ieee.org/2024/) in Montreal, Quebec.
 
-- [May 27, 2024] I gave a talk at the CAP Congress in London, Ontario on my work on harmonic generation in metallic nanohybrids (give link to slides). My talk won third prize in the AMO division (give link to certificate).
+- [May 27, 2024] I gave a talk at the CAP Congress in London, Ontario on my work on harmonic generation in metallic nanohybrids (slides can be found [here]). My talk won [third prize](./home_media/CAP_certificate_2024.pdf) in the AMO division.
 
-- [March 22, 2024] I presented a poster on my work on my undergraduate thesis work at Western University (give link to poster).
+- [March 22, 2024] I presented a [poster](./home_media/undergrad_thesis_poster.pdf) on my work on my undergraduate thesis work at Western University.
 
 - [December 6, 2023] I organized and gave an information session to students of Western's Integrated Science program on how to get involved with undergraduate summer research.
 
-- [November 29, 2023] I gave a virtual seminar to Prof. Jesko Sirker's research group, discussing my research project on MBL (give link to slides).
+- [November 29, 2023] I gave a virtual seminar to Prof. Jesko Sirker's research group, discussing my research project on MBL (slides can be found [here](./home_media/MBL_talk_2023.pdf)).
 
-- [October 28, 2023] I presented my MBL poster at the Canadian Undergraduate Physics Conference in Waterloo, Ontario.
+- [October 28, 2023] I presented my [MBL poster](./home_media/MBL_poster_2023.pdf) at the Canadian Undergraduate Physics Conference in Waterloo, Ontario.
 
-- [August 17, 2023] I presented a poster on my MBL summer research project at the University of Manitoba.
+- [August 17, 2023] I presented a [poster](./home_media/MBL_poster_2023.pdf) on my MBL summer research project at the University of Manitoba.
 
 ## Milestones
 
