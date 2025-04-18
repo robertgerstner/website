@@ -27,7 +27,7 @@ I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.ger
 
 - **[January 16, 2024]** My first paper, coming out of my work with Prof. [Jesko Sirker](http://drop.physics.umanitoba.ca/~jsirker/Dokuwiki/doku.php?id=home) in collaboration with Dr. [Alexander Weisse](https://people.mpim-bonn.mpg.de/weisse/) is now on the [arXiv](https://arxiv.org/abs/2401.08031)! We study localization in the Heisenberg model through the novel lens of operator growth, finding strong evidence for a lack of many-body localization.
 
-## Conferences, Workshops, Talks, Posters
+## Conferences, Workshops, Talks, and Posters
 
 - **[March 17, 2025]** I gave a talk at the [APS Global Physics Summit](https://summit.aps.org/) in Anaheim, CA on my work in many-body localization (slides can be found [here](./home_media/APS_slides_2025.pdf)). I also attended the conference throughout the rest of the week, with a focus on talks on the intersection of artificial intelligence, quantum physics, and material science. Lots of interesting work being done!
 
@@ -48,6 +48,12 @@ I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.ger
 - **[October 28, 2023]** I presented my [MBL poster](./home_media/MBL_poster_2023.pdf) at the [Canadian Undergraduate Physics Conference](https://cap.ca/congress-conference/cupc/) in Waterloo, Ontario.
 
 - **[August 17, 2023]** I presented a [poster](./home_media/MBL_poster_2023.pdf) on my MBL summer research project at the University of Manitoba.
+
+## Other Projects
+
+- **[January 17, 2025]** I completed the [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/XYUQHJB8WBLT) offered by DeepLearning.AI through Coursera.
+
+- **[November 28, 2022]** I successfully completed each problem of the Fall 2022 IBM Quantum Challenge, earning an [Advanced Badge](https://www.credly.com/badges/cfbd99aa-2bab-44b7-bdba-4e430ff478e6/linked_in_profile).
 
 ## Milestones
 
