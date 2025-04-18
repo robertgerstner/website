@@ -6,7 +6,7 @@ Welcome!
 
 <img src="./home_media/headshot1.jpg" alt="Headshot1" style="height:420px; width:300px; float:left; margin-right:15px;margin-bottom:15px;"> 
 
-I am a first-year Master's student in the Department of Physics at McGill University supervised by Prof. [Bill Coish](https://www.physics.mcgill.ca/~coish/). I am interested in harnessing AI for scientific discovery with a current focus in quantum many-body physics. I obtained my Bachelor's degree from Western University where I studied Integrated Science with a specialization in physics. I hope to pursue a PhD degree after the completion of my MSc.
+I am a first-year Master's student in the Department of Physics at McGill University supervised by Prof. [Bill Coish](https://www.physics.mcgill.ca/~coish/). I am interested in harnessing computational tools such as neural networks (artificial intelligence) and quantum computing for scientific advancement, with my current focus being on quantum many-body physics. I hope to pursue a PhD degree after the completion of my MSc.
 
 I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.gerstner@mail.mcgill.ca), and my CV can be found [here](./home_media/CV_Apr_2025.pdf).
 
@@ -45,7 +45,7 @@ I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.ger
 
 - **[November 29, 2023]** I gave a virtual seminar to Prof. [Jesko Sirker](http://drop.physics.umanitoba.ca/~jsirker/Dokuwiki/doku.php?id=home)'s research group, discussing my research project on MBL (slides can be found [here](./home_media/MBL_talk_2023.pdf)).
 
-- **[October 28, 2023]** I presented my [MBL poster](./home_media/MBL_poster_2023.pdf) at the [Canadian Undergraduate Physics Conference](https://cap.ca/congress-conference/cupc/) in Waterloo, Ontario.
+- **[October 28, 2023]** I presented my [MBL poster](./home_media/MBL_poster_2023.pdf) at the [Canadian Undergraduate Physics Conference](https://cap.ca/congress-conference/cupc/) in Waterloo, ON.
 
 - **[August 17, 2023]** I presented a [poster](./home_media/MBL_poster_2023.pdf) on my MBL summer research project at the University of Manitoba.
 
