@@ -29,7 +29,7 @@ I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.ger
 
 ## Conferences, Workshops, Talks, and Posters
 
-- **[March 17, 2025]** I gave a talk at the [APS Global Physics Summit](https://summit.aps.org/) in Anaheim, CA on my work in many-body localization (slides can be found [here](./home_media/APS_slides_2025.pdf)). I also attended the conference throughout the rest of the week, focusing on talks at the intersection of artificial intelligence, quantum physics, and material science. Lots of interesting work being done!
+- **[2025-03-17]** I gave a talk at the [APS Global Physics Summit](https://summit.aps.org/) in Anaheim, CA on my work in many-body localization (slides can be found [here](./home_media/APS_slides_2025.pdf)). I also attended the conference throughout the rest of the week, focusing on talks at the intersection of artificial intelligence, quantum physics, and material science. Lots of interesting work being done!
 
 - **[2024-11-12 - 2024-11-14]** I attended the Workshop on Quantum Simulation with Spin Qubits in Vancouver, BC (at UBC) as a member of the theory pillar for the [Consortium on Quantum Simulation with Spin Qubits (CQS2Q)](https://www.nserc-crsng.gc.ca/ase-oro/Details-Detailles_eng.asp?id=751954).
 
