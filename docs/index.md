@@ -6,9 +6,9 @@ Welcome!
 
 <img src="./home_media/headshot1.jpg" alt="Headshot1" style="height:420px; width:300px; float:left; margin-right:15px;margin-bottom:15px;"> 
 
-I am a first-year Master's student in the Department of Physics at McGill University supervised by Prof. [Bill Coish](https://www.physics.mcgill.ca/~coish/). I am interested in harnessing computational tools such as neural networks (artificial intelligence) and quantum computing for scientific advancement, with my current focus being on quantum many-body physics. I hope to pursue a PhD degree after the completion of my MSc.
+I am a first-year Master's student in the Department of Physics at McGill University supervised by Prof. [Bill Coish](https://www.physics.mcgill.ca/~coish/). I am interested in harnessing computational tools such as artificial intelligence and quantum computing for scientific advancement, with my current focus being on quantum many-body physics. I hope to pursue a PhD degree after the completion of my MSc.
 
-I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.gerstner@mail.mcgill.ca), and my CV can be found [here](./home_media/CV_Apr_2025.pdf).
+I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.gerstner@mail.mcgill.ca), and my CV can be found [here](./home_media/CV_May_2025.pdf).
 
 # Education
 
@@ -28,6 +28,10 @@ I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.ger
 - **[2024-01-16]** My first paper, coming out of my work with Prof. [Jesko Sirker](http://drop.physics.umanitoba.ca/~jsirker/Dokuwiki/doku.php?id=home) in collaboration with Dr. [Alexander Weisse](https://people.mpim-bonn.mpg.de/weisse/), is now on the [arXiv](https://arxiv.org/abs/2401.08031)! We study localization in the Heisenberg model through the novel lens of operator growth, finding strong evidence for a lack of many-body localization.
 
 ## Conferences, Workshops, Talks, and Posters
+
+- **[2025-05-23]** I attended the [Grande Conférence du RQMP](https://rqmp.ca/en/event/rqmp-grande-conference-2025-edition/) which took place in Montréal, QC, with the theme of Artificial Intellegence and Materials: Towards a Revolution in Research and Innovation.
+
+- **[2025-05-13 - 2025-05-14]** I attended the [Spring INTRIQ Meeting](https://www.intriq.org/events/rencontre-printaniere-2025-de-lintriq) in Bromont, QC.
 
 - **[2025-03-17]** I gave a talk at the [APS Global Physics Summit](https://summit.aps.org/) in Anaheim, CA on my work in many-body localization (slides can be found [here](./home_media/APS_slides_2025.pdf)). I also attended the conference throughout the rest of the week, focusing on talks at the intersection of artificial intelligence, quantum physics, and material science. Lots of interesting work being done!
 
