@@ -8,7 +8,7 @@ Welcome!
 
 I am a first-year Master's student in the Department of Physics at McGill University supervised by Prof. [Bill Coish](https://www.physics.mcgill.ca/~coish/). I am interested in harnessing computational tools such as artificial intelligence and quantum computing for scientific advancement, with my current focus being on quantum many-body physics. I hope to pursue a PhD degree after the completion of my MSc.
 
-I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.gerstner@mail.mcgill.ca), and my CV can be found [here](./home_media/CV_May_2025.pdf).
+I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.gerstner@mail.mcgill.ca), and my CV can be found [here](./home_media/CV_June_2025.pdf).
 
 # Education
 
@@ -20,6 +20,8 @@ I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.ger
 # Activity
 
 ## Publications
+
+-**[2025-06-05]** My new paper coming out of my undergraduate thesis work with Prof. [Mahi Singh](https://physics.uwo.ca/~msingh/), in collaboration with Prof. [Richard Haglund]'s group at Vanderbilt University, and completed by my collaborator Qingzhou Meng after my departure, is now available [online](https://my.vanderbilt.edu/richardhaglund/) as an accepted manuscript by Physica Scripta.
 
 - **[2025-02-10]** A significantly updated version of our many-body localization (MBL) manuscript is now on the [arXiv](https://arxiv.org/abs/2401.08031). We now believe we have strong analytical evidence for a lack of MBL in the disordered Heisenberg and mixed-field Ising models, and open a new avenue towards further studies of MBL via operator growth.
 
