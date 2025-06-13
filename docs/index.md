@@ -21,6 +21,8 @@ I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.ger
 
 ## Publications
 
+- **[2025-06-11]** MBL paper accepted by Physical Review Research. DOI: [https://doi.org/10.1103/wgss-nt8t](https://doi.org/10.1103/wgss-nt8t).
+
 - **[2025-06-05]** My new paper coming out of my undergraduate thesis work with Prof. [Mahi Singh](https://physics.uwo.ca/~msingh/), in collaboration with Prof. [Richard Haglund](https://my.vanderbilt.edu/richardhaglund/)'s group at Vanderbilt University, and completed by my collaborator Qingzhou Meng after my departure, is now available [online](https://iopscience.iop.org/article/10.1088/1402-4896/ade1ae) as an accepted manuscript by Physica Scripta.
 
 - **[2025-02-10]** A significantly updated version of our many-body localization (MBL) manuscript is now on the [arXiv](https://arxiv.org/abs/2401.08031). We now believe we have strong analytical evidence for a lack of MBL in the disordered Heisenberg and mixed-field Ising models, and open a new avenue towards further studies of MBL via operator growth.
