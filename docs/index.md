@@ -27,8 +27,6 @@ I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.ger
 
 - **[2025-02-10]** A significantly updated version of our many-body localization (MBL) manuscript is now on the [arXiv](https://arxiv.org/abs/2401.08031). We now believe we have strong analytical evidence for a lack of MBL in the disordered Heisenberg and mixed-field Ising models, and open a new avenue towards further studies of MBL via operator growth.
 
-- **[2024-12-19]** My mini research project studying arbitrary one-dimensional periodic materials with graph theory is available on the [arXiv](https://arxiv.org/abs/2412.15107).
-
 - **[2024-01-16]** My first paper, coming out of my work with Prof. [Jesko Sirker](http://drop.physics.umanitoba.ca/~jsirker/Dokuwiki/doku.php?id=home) in collaboration with Dr. [Alexander Weisse](https://people.mpim-bonn.mpg.de/weisse/), is now on the [arXiv](https://arxiv.org/abs/2401.08031)! We study localization in the Heisenberg model through the novel lens of operator growth, finding strong evidence for a lack of many-body localization.
 
 ## Conferences, Workshops, Talks, and Posters
@@ -60,6 +58,8 @@ I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.ger
 ## Other Projects
 
 - **[2025-01-17]** I completed the [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/XYUQHJB8WBLT) offered by DeepLearning.AI through Coursera.
+
+- **[2024-12-19]** I have completed a mini research project studying arbitrary one-dimensional periodic materials with graph theory. A paper-style report can be found [here](./home_media/Gerstner_BandStructureGraphs.pdf) and the corresponding GitHub repository is [here](https://github.com/robertgerstner/BandStructureGraphs/tree/main).
 
 - **[2022-11-28]** I successfully completed each problem of the Fall 2022 IBM Quantum Challenge, earning an [Advanced Badge](https://www.credly.com/badges/cfbd99aa-2bab-44b7-bdba-4e430ff478e6/linked_in_profile).
 
