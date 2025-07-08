@@ -21,9 +21,9 @@ I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.ger
 
 ## Publications
 
-- **[2025-07-07]** **[Paper published:]** [Operator growth in disordered spin chains: Indications for the absence of many-body localization](https://journals.aps.org/prresearch/abstract/10.1103/wgss-nt8t) in Physical Review Research (open access).
+- **[2025-07-07]** **Paper published:** [Operator growth in disordered spin chains: Indications for the absence of many-body localization](https://journals.aps.org/prresearch/abstract/10.1103/wgss-nt8t) in Physical Review Research (open access).
 
-- **[2025-07-03]** **[Paper published:]** [Study of nonlinear plasmonic properties of metallic nanohybrids](https://iopscience.iop.org/article/10.1088/1402-4896/ade1ae/meta) in Physica Scripta. 
+- **[2025-07-03]** **Paper published:** [Study of nonlinear plasmonic properties of metallic nanohybrids](https://iopscience.iop.org/article/10.1088/1402-4896/ade1ae/meta) in Physica Scripta. 
 
 - **[2025-06-11]** MBL paper accepted by Physical Review Research. DOI: [https://doi.org/10.1103/wgss-nt8t](https://doi.org/10.1103/wgss-nt8t).
 
