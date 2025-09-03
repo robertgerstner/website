@@ -8,7 +8,7 @@ Welcome!
 
 I am a first-year Master's student in the Department of Physics at McGill University supervised by Prof. [Bill Coish](https://www.physics.mcgill.ca/~coish/). I am interested in harnessing computational tools such as artificial intelligence and quantum computing for scientific advancement, with my current focus being on quantum many-body physics. I hope to pursue a PhD degree after the completion of my MSc.
 
-I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.gerstner@mail.mcgill.ca), and my CV can be found [here](./home_media/CV_July_2025.pdf).
+I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.gerstner@mail.mcgill.ca), and my CV can be found [here](./home_media/CV_2page_Aug2025.pdf).
 
 # Education
 
@@ -34,6 +34,8 @@ I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.ger
 - **[2024-01-16]** My first paper, coming out of my work with Prof. [Jesko Sirker](http://drop.physics.umanitoba.ca/~jsirker/Dokuwiki/doku.php?id=home) in collaboration with Dr. [Alexander Weisse](https://people.mpim-bonn.mpg.de/weisse/), is now on the [arXiv](https://arxiv.org/abs/2401.08031)! We study localization in the Heisenberg model through the novel lens of operator growth, finding strong evidence for a lack of many-body localization.
 
 ## Conferences, Workshops, Talks, and Posters
+
+- **[2025-07-09 - 2025-07-10]** I attended and volunteered at the [Conference on Strongly Correlated Electron Systems 2025](https://sces2025.org/en) in Montréal, QC.
 
 - **[2025-05-23]** I attended the [Grande Conférence du RQMP](https://rqmp.ca/en/event/rqmp-grande-conference-2025-edition/) which took place in Montréal, QC, with the theme of Artificial Intellegence and Materials: Towards a Revolution in Research and Innovation.
 
@@ -94,3 +96,6 @@ I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.ger
 - **[2020-06]** I graduated from St. Paul's High School in Winnipeg, MB (#1 in class).
 
 - **[2020-04]** My undergraduate degree at Western University will be fully funded by a President's Entrance Scholarship ($65,000 CAD).
+
+
+Check out this [animation](./home_media/umap_training_evolution_full.gif)!
