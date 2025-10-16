@@ -6,7 +6,7 @@ Welcome!
 
 <img src="./home_media/headshot1.jpg" alt="Headshot1" style="height:420px; width:300px; float:left; margin-right:15px;margin-bottom:15px;"> 
 
-I am a first-year Master's student in the Department of Physics at McGill University supervised by Prof. [Bill Coish](https://www.physics.mcgill.ca/~coish/). I am interested in harnessing computational tools such as artificial intelligence and quantum computing for scientific advancement, with my current focus being on quantum many-body physics. I hope to pursue a PhD degree after the completion of my MSc.
+I am a master's student in the Department of Physics at McGill University supervised by Prof. [Bill Coish](https://www.physics.mcgill.ca/~coish/). I am interested in the intersection of machine learning, quantum computation, and materials. Currently, I am applying machine learning methods to simulate quantum many-body systems relevant to semiconductor spin qubits. I hope to pursue a PhD degree after the completion of my MSc.
 
 I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.gerstner@mail.mcgill.ca), and my CV can be found [here](./home_media/CV_2page_Aug2025.pdf).
 
@@ -34,6 +34,14 @@ I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.ger
 - **[2024-01-16]** My first paper, coming out of my work with Prof. [Jesko Sirker](http://drop.physics.umanitoba.ca/~jsirker/Dokuwiki/doku.php?id=home) in collaboration with Dr. [Alexander Weisse](https://people.mpim-bonn.mpg.de/weisse/), is now on the [arXiv](https://arxiv.org/abs/2401.08031)! We study localization in the Heisenberg model through the novel lens of operator growth, finding strong evidence for a lack of many-body localization.
 
 ## Conferences, Workshops, Talks, and Posters
+
+- **[2025-09-22 - 2025-09-25]** I attended and presented a poster on my master's research at the Spin Qubits Workshop of the [QTech'25](https://www.qtech-budapest.eu/) conference in Budapest, Hungary.
+
+- **[2025-09-15 - 2025-09-19]** I had a weeklong research visit with the group of Prof. [Guido Burkard](https://www.burkard.uni-konstanz.de/group/prof-dr-guido-burkard/) at the University of Konstanz in Konstanz, Germany.
+
+- **[2025-09-08 - 2025-09-12]** I attended the Quant25 Summer School for Master Students: [From Quantum Matter to Quantum Computers](https://www.pks.mpg.de/quant25) hosted by the Max Planck Institute for the Physics of Complex Systems in Dresden, Germany. There, I also presented a poster on my master's research.
+
+- **[2025-08-06 - 2025-08-08]** I attended a [summer school on advanced materials](https://rqmp.ca/en/event/rqemp-summer-school/) hosted by the RQÉMP and AMA at Bishop's University in Sherbrooke, QC.
 
 - **[2025-07-09 - 2025-07-10]** I attended and volunteered at the [Conference on Strongly Correlated Electron Systems 2025](https://sces2025.org/en) in Montréal, QC.
 
