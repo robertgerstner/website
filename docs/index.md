@@ -37,7 +37,7 @@ I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.ger
 
 - **[2025-09-22 - 2025-09-25]** I attended and presented a poster on my master's research at the Spin Qubits Workshop of the [QTech'25](https://www.qtech-budapest.eu/) conference in Budapest, Hungary.
 
-- **[2025-09-15 - 2025-09-19]** I had a weeklong research visit with the group of Prof. [Guido Burkard](https://www.burkard.uni-konstanz.de/group/prof-dr-guido-burkard/) at the University of Konstanz in Konstanz, Germany.
+- **[2025-09-15 - 2025-09-19]** I had a week-long research visit with the group of Prof. [Guido Burkard](https://www.burkard.uni-konstanz.de/group/prof-dr-guido-burkard/) at the University of Konstanz in Konstanz, Germany.
 
 - **[2025-09-08 - 2025-09-12]** I attended the Quant25 Summer School for Master Students: [From Quantum Matter to Quantum Computers](https://www.pks.mpg.de/quant25) hosted by the Max Planck Institute for the Physics of Complex Systems in Dresden, Germany. There, I also presented a poster on my master's research.
 
