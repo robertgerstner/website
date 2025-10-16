@@ -8,7 +8,7 @@ Welcome!
 
 I am a master's student in the Department of Physics at McGill University supervised by Prof. [Bill Coish](https://www.physics.mcgill.ca/~coish/). I am interested in the intersection of machine learning, quantum computation, and materials. Currently, I am applying machine learning methods to simulate quantum many-body systems relevant to semiconductor spin qubits. I hope to pursue a PhD degree after the completion of my MSc.
 
-I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.gerstner@mail.mcgill.ca), and my CV can be found [here](./home_media/CV_2page_Aug2025.pdf).
+I can be reached via email at [robert.gerstner@mail.mcgill.ca](mailto:robert.gerstner@mail.mcgill.ca), and my CV can be found [here](./home_media/CV_2page_Oct2025.pdf).
 
 # Education
 
